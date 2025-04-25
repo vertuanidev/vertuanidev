@@ -9,5 +9,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVictin&show_icons=true&hide_border=true&theme=graywhite" alt="DEVictin GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=DEVictin&show_icons=true&hide_border=true&theme=tokyonight" alt="DEVictin GitHub Stats" />
 </p>
