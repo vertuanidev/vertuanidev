@@ -2,7 +2,7 @@
 
 
 <p align="center">Estudante de ADS
-  <p align="center">📩 Contato: vitorvertuani@hotmail.com
+  <p align="center">📩 Contato: <strong> vitorvertuani@hotmail.com <strong>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,java,py,mysql,cs" alt="Skills" />
 </p>
